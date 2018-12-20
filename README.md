@@ -8,70 +8,7 @@
     </b></td>
   </tr>
 </table>
-<table border="0" cellpadding="0" cellspacing="2" width="100%">
-  <tr>
-    <td width="100px" class="main2"><b>Tool:</b></td>
-    <td width="780px" class="main2"><b>ATSCAN V 13.3.0 </b></td>
-  </tr>
-  <tr>
-    <td width="100px" class="main2"><b>Codename:</b></td><td width="780px">4n0n4t</td>
-  </tr>
-  <tr>
-    <td width="100px" class="main2"><b>AUTHOR:</b></td><td width="780px">Ali MEHDIOUI</td>
-  </tr>
-  <tr>
-    <td width="100px" class="main2"><b>GROUP:</b></td><td width="780px">Alisam Technology</td>
-  </tr>
-  <tr>
-    <td width="100px" class="main2"><b>FACE:</b></td><td>facebook.com/Alisam.Technology </td>
-  </tr>
-  <tr>
-    <td width="100px" class="main2"><b>YOUTUBE:</b></td><td>youtube.com/c/AlisamTechnology</td>
-  </tr>
-  <tr>
-    <td width="100px" class="main2"><b>TWITTER:</b></td><td>twitter.com/AlisamTechno</td>
-  </tr>
-  <tr>
-    <td width="100px" class="main2"><b>PLUS:</b></td><td>plus.google.com/+AlisamTechnology</td>
-  </tr>
-</table>
-<table border="0" cellpadding="2" cellspacing="5" width="100%">
-  <tr>
-    <td class="main3">&#9733; <b>Description:</b></td>
-  </tr>
-  <tr>
-    <td class="main" width="890px"><p>&#x25cf; Search engine Google / Bing / Ask / Yandex / Sogou <br />
-        &#x25cf; Mass Dork Search<br/>&#x25cf; Multiple instant scans. <br/>&#x25cf; Mass Exploitation <br/>&#x25cf; Use proxy. <br/>
-        &#x25cf; Random user agent. <br/>&#x25cf; Random engine.<br/> &#x25cf; Extern commands execution.<br/>
-        &#x25cf; XSS / SQLI / LFI / AFD scanner.<br /> &#x25cf; Filter wordpress and Joomla sites. <br />
-        &#x25cf; Find Admin page.<br />&#x25cf; Decode / Encode Base64 / MD5<br/> &#x25cf; Ports scan. <br/>&#x25cf; Collect IPs<br/>&#x25cf; Collect E-mails. <br/>
-        &#x25cf; Auto detect errors. <br/> &#x25cf; Auto detect Cms.<br/>&#x25cf; Post data.<br/>&#x25cf; Auto sequence repeater.<br/>&#x25cf; Validation.<br/>&#x25cf; Post and Get method<br/>&#x25cf; Interactive and Normal interface.<br/>&#x25cf; And more...
-    </p></td>
-  </tr>
-</table>
-<table border="0" cellpadding="2" cellspacing="5" width="100%">
-  <tr>
-    <td class="main3" width="890px"> <b>&#9733; Libreries to install:</b></td>
-  </tr>
-  <tr>
-    <td class="main">
-      Perl Required. <br/>
-      Works in all platforms.
-      Disponible in Blackarch linux and Dracos systems.
-    </td>
-  </tr>
-</table>
-<table border="0" cellpadding="2" cellspacing="5" width="100%">
-  <tr>
-    <td class="main3" width="890px">&#9733; <b>Download:</b></td>
-  </tr>
-  <tr>
-    <td class="main">
-      &#x25cf; git clone https://github.com/AlisamTechnology/ATSCAN <br/>
-      &#x25cf; direct link: https://github.com/AlisamTechnology/ATSCAN
-    </td>
-  </tr>
-</table>
+
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
   <tr>
     <td class="main3" width="890px">&#9733; <b>Permissions:</b></td>
